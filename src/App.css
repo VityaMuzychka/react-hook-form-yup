@@ -45,5 +45,11 @@
 }
 
 .form input {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+p {
+  color: red;
+  margin: 0 auto 0 auto;
 }
